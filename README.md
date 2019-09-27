@@ -1,2 +1,3 @@
-# gitlab
-gitlab scripts
+# GitLab 
+Scripts for automation in public repo
+
